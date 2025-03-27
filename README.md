@@ -1,1 +1,1 @@
-이 리파지토리는 연습용입니다.
+This repository is used for practicing Git and GitHub.
